@@ -1,0 +1,93 @@
+[
+   {
+      "company": "Morris Plains, NJ (Hybrid)",
+      "title": "Data Analyst",
+      "skills": [
+         "Data Analysis",
+         "Business Analytics",
+         "SQL",
+         "Tableau",
+         "Power BI",
+         "Python"
+      ],
+      "remote": false,
+      "seniority": "unknown",
+      "salary_range": "$28 - $30 per hour (dependent on experience)"
+   },
+   {
+      "company": "Point72",
+      "title": "Sector Analyst",
+      "skills": [
+         "data analysis",
+         "data science",
+         "engineering techniques",
+         "alternative data",
+         "fundamental research",
+         "verbal communication",
+         "written communication",
+         "problem-solving",
+         "teamwork",
+         "organizational skills"
+      ],
+      "remote": true,
+      "seniority": "unknown",
+      "salary_range": "$95,000-$115,000 (USD)"
+   },
+   {
+      "company": "FreeWheel",
+      "title": "Analyst II - Global Reporting and Analytics",
+      "skills": [
+         "Datasets; Data Analysis; Structured Query Language (SQL); Analytics",
+         "Datasets; Data Analysis; Structured Query Language (SQL); Analytics",
+         "Analytics",
+         "Data Visualization",
+         "Data Analysis",
+         "SQL",
+         "Python",
+         "R",
+         "Looker",
+         "Tableau"
+      ],
+      "remote": true,
+      "seniority": "entry",
+      "salary_range": null
+   },
+   {
+      "company": "Ambit",
+      "title": "Associate, Commercial & Medical Analytics",
+      "skills": [
+         "data analysis",
+         "problem-solving",
+         "communication",
+         "organization",
+         "project management",
+         "Excel",
+         "statistical software packages",
+         "data visualization tools",
+         "pharmaceutical datasets",
+         "problem-solving skills"
+      ],
+      "remote": false,
+      "seniority": "entry",
+      "salary_range": null
+   },
+   {
+      "company": "New York State Homes and Community Renewal (HCR)",
+      "title": "Data Analyst",
+      "skills": [
+         "GIS, Spatial Data Analysis (GIS) with business and policy research",
+         "Data Science, Spatial Data Analysis (GIS)",
+         "Business and Policy Research",
+         "Quantitative and Qualitative Policy Analysis",
+         "Data Quality & Documentation",
+         "Research Assistance",
+         "Data Integrity",
+         "Microsoft Office products (Excel, Access)",
+         "Esri ArcGIS 10.x, ArcGIS Online, ArcGIS Server, Model Builder, R, Python programming",
+         "Data Analysis, Reporting, and Visualization"
+      ],
+      "remote": true,
+      "seniority": "unknown",
+      "salary_range": null
+   }
+]
